@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Geeteshwer/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Geeteshwer/Leetcode/tree/master/0041-first-missing-positive) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geeteshwer/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Geeteshwer/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Geeteshwer/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Geeteshwer/Leetcode/tree/master/0041-first-missing-positive) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Geeteshwer/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Geeteshwer/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Geeteshwer/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
