@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Geeteshwer/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Geeteshwer/Leetcode/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/Geeteshwer/Leetcode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Geeteshwer/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Geeteshwer/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Geeteshwer/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Geeteshwer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Geeteshwer/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Geeteshwer/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
