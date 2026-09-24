@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Geeteshwer/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Geeteshwer/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Geeteshwer/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Geeteshwer/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Geeteshwer/Leetcode/tree/master/1952-three-divisors) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Geeteshwer/Leetcode/tree/master/0070-climbing-stairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Geeteshwer/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Geeteshwer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Geeteshwer/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
