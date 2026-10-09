@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Geeteshwer/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Geeteshwer/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Geeteshwer/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Geeteshwer/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Geeteshwer/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Geeteshwer/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Geeteshwer/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Geeteshwer/Leetcode/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/Geeteshwer/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Geeteshwer/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Geeteshwer/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Geeteshwer/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Geeteshwer/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Geeteshwer/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Geeteshwer/Leetcode/tree/master/1021-remove-outermost-parentheses) |
