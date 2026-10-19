@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Geeteshwer/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Geeteshwer/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Geeteshwer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Geeteshwer/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Geeteshwer/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Geeteshwer/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Geeteshwer/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Geeteshwer/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Geeteshwer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Geeteshwer/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Geeteshwer/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Geeteshwer/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Geeteshwer/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Geeteshwer/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Geeteshwer/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/Geeteshwer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Geeteshwer/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Geeteshwer/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
