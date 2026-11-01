@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Geeteshwer/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Geeteshwer/Leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Geeteshwer/Leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Geeteshwer/Leetcode/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/Geeteshwer/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Geeteshwer/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Geeteshwer/Leetcode/tree/master/1952-three-divisors) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Geeteshwer/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Geeteshwer/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0326-power-of-three](https://github.com/Geeteshwer/Leetcode/tree/master/0326-power-of-three) |
 ## Geometry
 |  |
 | ------- |
